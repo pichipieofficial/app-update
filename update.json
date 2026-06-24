@@ -1,6 +1,7 @@
 {
-  "latestVersion": 2,
-  "minimumVersion": 2,
+  "latestVersionCode": 2,
+  "minimumVersionCode": 2,
+  "latestVersionName": "2.0",
   "forceUpdate": true,
-  "apkUrl": "https://example.com/app-v2.apk"
+  "downloadUrl": "https://github.com/pichipieofficial/app-update/releases/download/v2/PichiPie-TV.apk"
 }
