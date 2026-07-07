@@ -2,6 +2,6 @@
   "latestVersionCode": 2,
   "minimumVersionCode": 1,
   "latestVersionName": "1.0.1",
-  "forceUpdate": false,
+  "forceUpdate": True,
   "downloadUrl": "https://github.com/pichipieofficial/app-update/releases/latest/download/PichiPie-TV.apk"
 }
