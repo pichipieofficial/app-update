@@ -3,5 +3,6 @@
   "minimumVersionCode": 1,
   "latestVersionName": "1.0.2",
   "forceUpdate": true,
+  "message": "Important: Due to changes in our app signing policy, this update cannot be installed over the existing version.\n\nPlease:\n1. Uninstall the current version.\n2. Download and install the latest APK.\n\nDownload: https://pichipieofficial.vercel.app/",
   "downloadUrl": "https://github.com/pichipieofficial/app-update/releases/latest/download/PichiPie-TV.apk"
 }
