@@ -1,8 +1,8 @@
 {
-  "latestVersionCode": 11,
+  "latestVersionCode": 12,
   "minimumVersionCode": 1,
-  "latestVersionName": "2.2",
+  "latestVersionName": "2.2.1",
   "forceUpdate": true,
-   "message": "🎉 A new update is available!\n\nPichiPie TV v1.2 is now available with improvements and fixes. Please update to enjoy a better experience.\n\nDownload the latest v2.2 APK to continue streaming seamlessly!\n\n🙏 Sorry for any inconvenience, and thank you for using PichiPie TV!",
+  "message": "🎉 PichiPie TV v2.2.1 Update is Here!\n\n✨ What's New:\n• 🏆 6 Dedicated Sports Networks — Added Willow & SonyLiv alongside CricHD, Tapmad, Fancode, and All Live Sports\n• 🛡️ Anti-Promo Filter — 100% ad-free & promo-free streams across all playlists\n• 👑 World-Class About UI — Special love dedication to Farzana Faria and interactive social profiles\n• ⚡ Universal App Info — Quick access to channel & system stats beside Settings on every screen\n• 📺 6 Live TV Networks & 🍿 5 Cinema Vaults — 1,500+ live channels and 25,000+ movie titles\n• 🎮 Ultra-Responsive D-Pad & Touch Navigation\n\nDownload the latest v2.2.1 APK to continue streaming smoothly!",
   "downloadUrl": "https://github.com/pichipieofficial/app-update/releases/latest/download/PichiPie-TV.apk"
 }
