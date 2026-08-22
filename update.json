@@ -1,8 +1,8 @@
 {
-  "latestVersionCode": 12,
+  "latestVersionCode": 13,
   "minimumVersionCode": 1,
-  "latestVersionName": "2.2.1",
+  "latestVersionName": "2.2.2",
   "forceUpdate": true,
-  "message": "🎉 PichiPie TV v2.2.1 Update is Here!\n\n✨ What's New:\n• 🏆 6 Dedicated Sports Networks — Added Willow & SonyLiv alongside CricHD, Tapmad, Fancode, and All Live Sports\n• 🛡️ Anti-Promo Filter — 100% ad-free & promo-free streams across all playlists\n• 👑 World-Class About UI — Special love dedication to Farzana Faria and interactive social profiles\n• ⚡ Universal App Info — Quick access to channel & system stats beside Settings on every screen\n• 📺 6 Live TV Networks & 🍿 5 Cinema Vaults — 1,500+ live channels and 25,000+ movie titles\n• 🎮 Ultra-Responsive D-Pad & Touch Navigation\n\nDownload the latest v2.2.1 APK to continue streaming smoothly!",
+  "message": "🎉 PichiPie TV v2.2.2 Update is Here!\n\n✨ What's New:\n• 🍿 Instant-Load Movie Caching — 0ms lag-free movie catalog browsing during session\n• ⚡ Smooth Chunked Catalog Browsing — 60fps D-Pad remote scrolling across 25,000+ titles\n• ⚽ Football & Live Sports #1 — EPL, UCL, and international sports promoted to 1st place\n• ⚡ Daily Sport Added — Brand new daily EPL & tournament live feeds\n• 📺 Upgraded Toffee TV — Fresh ultra-fast network feeds with EPL coverage\n• 🛡️ 100% Stream Reliability — Cleaned expired streams for pristine playback\n\nDownload the latest v2.2.2 APK to enjoy the fastest streaming experience!",
   "downloadUrl": "https://github.com/pichipieofficial/app-update/releases/latest/download/PichiPie-TV.apk"
 }
