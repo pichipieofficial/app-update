@@ -1,8 +1,8 @@
 {
-  "latestVersionCode": 13,
+  "latestVersionCode": 14,
   "minimumVersionCode": 1,
-  "latestVersionName": "2.2.2",
+  "latestVersionName": "2.3.0",
   "forceUpdate": true,
-  "message": "🎉 PichiPie TV v2.2.2 Update is Here!\n\n✨ What's New:\n• 🍿 Instant-Load Movie Caching — 0ms lag-free movie catalog browsing during session\n• ⚡ Smooth Chunked Catalog Browsing — 60fps D-Pad remote scrolling across 25,000+ titles\n• ⚽ Football & Live Sports #1 — EPL, UCL, and international sports promoted to 1st place\n• ⚡ Daily Sport Added — Brand new daily EPL & tournament live feeds\n• 📺 Upgraded Toffee TV — Fresh ultra-fast network feeds with EPL coverage\n• 🛡️ 100% Stream Reliability — Cleaned expired streams for pristine playback\n\nDownload the latest v2.2.2 APK to enjoy the fastest streaming experience!",
+  "message": "🎉 PichiPie TV v2.3.0 Major Update!\n\n✨ What's New:\n• 🏟️ Dedicated Daily Live Sports Hub — Brand-new widescreen 16:9 match cards, instant category filtering (Football, Cricket, Combat/UFC, Racing), quick server switcher, and clean team matchup titles!\n• 🎨 Symmetrical Cinematic Splash Screen — Re-imagined brand identity with central glowing icon, sleek electric cyan typography, and smooth choreographed animations.\n• 📺 Multi-Row 3-Card Balanced Grid — Clean 3 cards per row across Live TV, Sports, and Movies with uniform card dimensions and tailored descriptions.\n• 🔥 PichiSports & Daily Sport Unified — Exact same card dimensions and spacing across all sports servers.\n• 👑 PichiPie Premium & 24/7 Sports TV — PichiPie Premium is now your #1 live TV network, and Football & CricHD feature dedicated Sports TV headers.\n• ⚡ 0ms Lag-Free Movie Caching — Instant catalog navigation, chunked batch loading, and flawless remote D-Pad controls across 25,000+ movies.\n\nEnjoy the next-generation entertainment experience with PichiPie TV v2.3.0!",
   "downloadUrl": "https://github.com/pichipieofficial/app-update/releases/latest/download/PichiPie-TV.apk"
 }
