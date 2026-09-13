@@ -1,0 +1,8 @@
+{
+  "latestVersionCode": 17,
+  "minimumVersionCode": 1,
+  "latestVersionName": "2.5.0",
+  "forceUpdate": true,
+  "message": "🎉 PichiTV v2.5.0 is here!\n\n✨ Key Highlights:\n• 🦋 Interactive Creature Companions — Choose between Ethereal Butterfly, Cyber Hummingbird, Golden Fireflies, or Clean in Settings.\n• 📺 10-Foot Smart TV UI & Universal Responsiveness — Fully adaptive scaling from small phones to large TVs with zero cutoff.\n• ⏱️ Real Live Digital Clock — Smart 12h/24h clock synced across all screen headers and player HUDs.\n• 🖼️ Picture-in-Picture (PiP) — Seamless multitasking with floating player on phone & TV.\n• ⚡ Shimmer Skeletons & Instant Crossfade — Instant skeleton loading placeholders and zero-black-flash channel switching.\n• 🎨 Dynamic Theme Studio — 5 switchable cyber atmosphere palettes with custom companion glows.\n• 🎧 Audio & Subtitle Quick-Pickers — Multi-track audio and subtitle selection right inside Live TV OSD.\n• 🍿 100k+ Movie Speedup — Instant disk caching and 60-item chunked streaming on all TV boxes.\n\nEnjoy the most advanced PichiTV experience! 🍿",
+  "downloadUrl": "https://github.com/pichipieofficial/app-update/releases/latest/download/PichiTV.apk"
+}
