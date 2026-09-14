@@ -1,8 +1,8 @@
 {
-  "latestVersionCode": 17,
+  "latestVersionCode": 18,
   "minimumVersionCode": 1,
-  "latestVersionName": "2.5.0",
+  "latestVersionName": "2.5.1",
   "forceUpdate": true,
-  "message": "🎉 PichiTV v2.5.0 is here!\n\n✨ Key Highlights:\n• 🦋 Interactive Creature Companions — Choose between Ethereal Butterfly, Cyber Hummingbird, Golden Fireflies, or Clean in Settings.\n• 📺 10-Foot Smart TV UI & Universal Responsiveness — Fully adaptive scaling from small phones to large TVs with zero cutoff.\n• ⏱️ Real Live Digital Clock — Smart 12h/24h clock synced across all screen headers and player HUDs.\n• 🖼️ Picture-in-Picture (PiP) — Seamless multitasking with floating player on phone & TV.\n• ⚡ Shimmer Skeletons & Instant Crossfade — Instant skeleton loading placeholders and zero-black-flash channel switching.\n• 🎨 Dynamic Theme Studio — 5 switchable cyber atmosphere palettes with custom companion glows.\n• 🎧 Audio & Subtitle Quick-Pickers — Multi-track audio and subtitle selection right inside Live TV OSD.\n• 🍿 100k+ Movie Speedup — Instant disk caching and 60-item chunked streaming on all TV boxes.\n\nEnjoy the most advanced PichiTV experience! 🍿",
+  "message": "🎉 PichiTV v2.5.1 is here!\n\n✨ Key Updates & Bug Fixes:\n• 🎬 Recreated Movie Details Screen — Brand-new responsive layout with top navigation, back button, live clock, dynamic metadata badges, formatted synopsis, and action controls.\n• 🦋 Smart Ambient Companions — Living creatures with focus curiosity, touch/tap reactions, and natural resting cycles across all screens.\n• 🎯 Zero-Clipping Focus & Hover — Refined 1.02x focus scaling and unclipped containers in Settings so borders and edges never get cut off.\n• 📺 Smart Persistent Player Logo — Continuous, elegant broadcast watermark across Live TV, Movie, and OTT players (subtle on video, bright on HUD, auto-hidden in PiP).\n• ⚡ Performance & UI Polish — Smooth navigation, bug fixes, and enhanced responsiveness on all TV and mobile screens.\n\nEnjoy the upgraded PichiTV experience! 🍿",
   "downloadUrl": "https://github.com/pichipieofficial/app-update/releases/latest/download/PichiTV.apk"
 }
