@@ -1,8 +1,8 @@
 {
-  "latestVersionCode": 19,
+  "latestVersionCode": 20,
   "minimumVersionCode": 1,
-  "latestVersionName": "2.5.2",
+  "latestVersionName": "2.5.3",
   "forceUpdate": true,
-  "message": "🎉 PichiTV v2.5.2 is here!\n\n• 🎬 Fully Responsive Movie Details on TV & Mobile\n• 🔄 Smart Playlist Auto-Sync on App Launch\n• 🌐 Official Website Portal in App Updater\n• ⚡ Performance, Bug Fixes & Stability Improvements\n\nOfficial Website: https://pichi-tv.vercel.app/",
+  "message": "🎉 PichiTV v2.5.3 is here!\n\n• 🍿 Fresh Movie Catalog Loading & 1st-Time Playback Fix\n• 🎨 Settings Theme Carousel Scroll Clipping Fix\n• 📺 Unified Mobile & TV Player Layout with Drawer Navigation Rail\n• 🔴 Pristine & Clean Live TV Player Overlay on TV\n• 🎯 Smart Content Focus: 1st Card Active Automatically\n• 🐱 New Living Companions: Smart Cyber Cat & Neon Ants\n\nOfficial Website: https://pichi-tv.vercel.app/",
   "downloadUrl": "https://github.com/pichipieofficial/app-update/releases/latest/download/PichiTV.apk"
 }
