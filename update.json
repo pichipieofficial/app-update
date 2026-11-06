@@ -1,8 +1,8 @@
 {
-  "latestVersionCode": 20,
+  "latestVersionCode": 21,
   "minimumVersionCode": 1,
-  "latestVersionName": "2.5.3",
-  "forceUpdate": true,
-  "message": "🎉 PichiTV v2.5.3 is here!\n\n• 🍿 Fresh Movie Catalog Loading & 1st-Time Playback Fix\n• 🎨 Settings Theme Carousel Scroll Clipping Fix\n• 📺 Unified Mobile & TV Player Layout with Drawer Navigation Rail\n• 🔴 Pristine & Clean Live TV Player Overlay on TV\n• 🎯 Smart Content Focus: 1st Card Active Automatically\n• 🐱 New Living Companions: Smart Cyber Cat & Neon Ants\n\nOfficial Website: https://pichi-tv.vercel.app/",
+  "latestVersionName": "3.0.0",
+  "forceUpdate": false,
+  "message": "🍿 PichiTV v3.0.0 Major Milestone is here!\n\n• 🐱 Living Creature Companions: Monarch Butterfly, Cozy Cat, Fireflies & Zen Koi\n• 🎨 Cinematic Themes & Clean Dropdown Settings\n• ⏱️ Precision Digital Chronometer with Tabular Live Seconds\n• 🍿 Pure In-Memory Movie & Sports Session Architecture\n• 🎬 Broadcast UI/UX & Geometric Glass Card Elevation\n\nOfficial Website: https://pichi-tv.vercel.app/",
   "downloadUrl": "https://github.com/pichipieofficial/app-update/releases/latest/download/PichiTV.apk"
 }
